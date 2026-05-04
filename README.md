@@ -113,24 +113,6 @@ Fake news detection should move beyond binary classification toward:
 
 ---
 
-## 6. Repository Structure
-
-```bash
-project/
-│
-├── notebooks/
-│   ├── 01_data_cleaning_and_preprocessing.ipynb
-│   ├── 02_unsupervised_learning_latent_structure.ipynb
-│   └── 03_supervised_models.ipynb
-│
-├── data/
-│   └── [sample_data.csv](https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k?select=DataSet_Misinfo_FAKE.csv) 
-│
-├── results/
-│   └── figures/
-│
-├── README.md
-
 ## Literature Insights and Critical Perspective
 This project extends beyond model implementation and engages with key limitations in the fake news detection (FND) literature.
 
